@@ -36,3 +36,4 @@ Interview Questions
 * http://www.geeksforgeeks.org/string-containing-first-letter-every-word-given-string-spaces/
 * http://www.geeksforgeeks.org/find-uncommon-characters-two-strings/
 * http://www.geeksforgeeks.org/fill-array-1s-minimum-iterations-filling-neighbors/
+* http://www.geeksforgeeks.org/number-buildings-facing-sun/
